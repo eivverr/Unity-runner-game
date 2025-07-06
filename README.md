@@ -2,4 +2,4 @@
 
 ## Play the game
 
-https://washi-fr.itch.io/cubrunner
+https://eivver.itch.io/cubrunner
